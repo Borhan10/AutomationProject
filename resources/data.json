@@ -1,0 +1,33 @@
+{
+	"addComputer": {
+		"computerName": "ComputerAFterDelete2",
+		"introduceDate": "2011-12-10",
+		"disconnectDate": "2013-11-11",
+		"company": "Tandy Corporation"
+	},
+	"invalidIntroDate": {
+		"introduceDate": "2011-1ss2-1asdad0"
+	},
+	"invalidDisconnDate": {
+		"disconnectDate": "2013-1ssa1-1111"
+	},
+	"updateComputer": {
+		"oldComputerName": "Apple",
+		"newComputerName": "Apple D24",
+		"newIntroduceDate": "2012-11-11",
+		"newDisconnectDate": "2013-11-11",
+		"newCompany": "Tandy Corporation"
+	},
+	"searchValues": {
+		"computerName": "Lenovo Thinkpad Edge 11",
+		"introduceDate": "",
+		"disconnectDate": "",
+		"company": "Lenovo Group"
+	},
+	"searchInvalidComputer": {
+		"computerName": "No computer should be found here for invalid search"
+	},
+	"deleteComputer": {
+		"computerName": "Apple Lisa"
+	}
+}

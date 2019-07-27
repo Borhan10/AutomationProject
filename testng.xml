@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <parameter name="browser" value="chrome" />
+  <parameter name="URL" value="http://computer-database.herokuapp.com/computers" />
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestScenarios.AutomationProject.createComputerTestCase"/>
+      <class name="TestScenarios.AutomationProject.updateComputer"/>
+      <class name="TestScenarios.AutomationProject.searchComputer"/>
+      <class name="TestScenarios.AutomationProject.deleteComputer"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
