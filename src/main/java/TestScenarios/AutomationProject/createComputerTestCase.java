@@ -99,7 +99,7 @@ public class createComputerTestCase extends baseTest {
 	}
 	
 	@Test(priority=5)
-	public void addNewInvalidIntroduceDate() {
+	public void addNewComputerWithInvalidIntroduceDate() { // Create new computer with invalid Introduce date
 		home.openhome();
 		home.openAddComputer();
 		add.waitForPagetoLoad();
@@ -113,7 +113,7 @@ public class createComputerTestCase extends baseTest {
 	}
 	
 	@Test(priority=6)
-	public void addNewInvalidDisconnDate() {
+	public void addNewComputerWithInvalidDisconnDate() {  // Create new computer with invalid Disconnect date
 		home.openhome();
 		home.openAddComputer();
 		add.waitForPagetoLoad();
