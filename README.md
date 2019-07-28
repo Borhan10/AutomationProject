@@ -45,7 +45,27 @@ from execution => Change to 1.8 => Apply and close)
 
 2.1 Delete computer successfully and check for number of decreased computers 
 
-2.2 Check for message of deletion 
+2.2 Check for message of successfully delete
+
+3. Search for computer
+
+3.1 Check that search for available computer return value
+
+3.2 Check that search for unavailable computer doesn't return value
+
+3.3 Check that all values of the computer are correct
+
+4. Update Computer 
+
+4.1 Update computer sucessfully and check for the message appear correct
+
+4.2 Check for all values of the updated computer are correct 
+
+4.3 Update computer with invalid or empty computer name 
+
+4.4 Update computer with invalid introduce date
+
+4.5 Update computer with invalid disconnect date 
 
 
 ### Manual test cases
