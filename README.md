@@ -6,7 +6,22 @@ This is a Selenium project make CRUD operations on the [Computer website](http:/
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-1. 
+
+1. download project
+
+2. extract project
+
+3. open eclispse or any ID
+
+4. import mavn project
+
+5. convert Java comiler from 1.5 to 1.7 or 1.8
+
+6. open any test cases to run or Open TestNG.xml to run all test cases 
+
+7. Add valid test data from resources/data.json
+
+8. run as TESTNG
 
 ### Prerequisites
 
