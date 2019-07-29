@@ -15,11 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 4. import mavn project
 
-5. convert Java comiler from 1.5 to 1.7 or 1.8
+5. convert Java combiler to 1.8
 
-6. open any test cases to run or Open TestNG.xml to run all test cases 
+6. Add valid test data from resources/data.json
 
-7. Add valid test data from resources/data.json
+7. Open TestNG.xml to run all test cases 
 
 8. run as TESTNG
 
@@ -96,5 +96,7 @@ Fine test cases in (AutomationProject=>resources=>CRUD TestCases.xlsx)
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 * [TestNg](testng.org) - Used for Annotations and Run your test
+
+
 
 
